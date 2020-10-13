@@ -1,0 +1,38 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2e année\\\\DEv\\\\Alex duval\\\\nuxt-101-master\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog"
+  },
+  {
+    "name": "matchs",
+    "path": "/matchs",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2e année\\\\DEv\\\\Alex duval\\\\nuxt-101-master\\\\pages\\\\matchs.vue",
+    "chunkName": "pages/matchs"
+  },
+  {
+    "name": "messages",
+    "path": "/messages",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2e année\\\\DEv\\\\Alex duval\\\\nuxt-101-master\\\\pages\\\\messages.vue",
+    "chunkName": "pages/messages"
+  },
+  {
+    "name": "notifications",
+    "path": "/notifications",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2e année\\\\DEv\\\\Alex duval\\\\nuxt-101-master\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications"
+  },
+  {
+    "name": "profil",
+    "path": "/profil",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2e année\\\\DEv\\\\Alex duval\\\\nuxt-101-master\\\\pages\\\\profil.vue",
+    "chunkName": "pages/profil"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2e année\\\\DEv\\\\Alex duval\\\\nuxt-101-master\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
